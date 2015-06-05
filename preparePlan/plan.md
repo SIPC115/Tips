@@ -32,7 +32,7 @@
 郑傲|CSS3手册|http://css.doyoe.com/||
 -|微信公众平台SDK(PHP)|目标为调通||
 -|redis|自选任务||
-赵若阳|总结新教务处的登录过程及数据格式|整理成文档||
+赵若阳|总结新教务处的登录过程及数据格式|整理成文档|3|0
 -|思考新学生信息管理系统的构架|整理成文档会流程图||
 刘佩云|HTML/CSS学习|http://www.w3cschool.cc/html/<br>http://www.w3cschool.cc/css/
 -|CSS3学习|http://www.w3cschool.cc/css3<br>所有的demo都要跟着做一遍||
