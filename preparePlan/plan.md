@@ -37,7 +37,7 @@
 -|完成理工助手软件|具有课表，查成绩，查考场功能|10|1
 刘佩云|HTML/CSS学习|http://www.w3cschool.cc/html/<br>http://www.w3cschool.cc/css/
 -|CSS3学习|http://www.w3cschool.cc/css3<br>所有的demo都要跟着做一遍||
-贺俊毓|苹果开发者入门文档|已单独发送||
+贺俊毓|苹果开发者入门文档|已单独发送|2|1
 赵枭翀|PHP100教程|以下为分类|-|-
 -|01-10集|||
 -|11-14集|||
