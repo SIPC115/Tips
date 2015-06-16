@@ -34,7 +34,7 @@
 -|redis|自选任务|5|1
 赵若阳|总结新教务处的登录过程及数据格式|[文档](./code/zry/信息门户自动登录文档.MD)|Done|0
 -|思考新学生信息管理系统的构架|整理成文档会流程图|null|2
--|完成理工助手软件|具有课表，查成绩，查考场功能|10|1
+-|完成理工助手软件|具有课表，查成绩，查考场功能 [github链接](https://github.com/WrongChao/MyTJUT)|done|1
 刘佩云|HTML/CSS学习|http://www.w3cschool.cc/html/<br>http://www.w3cschool.cc/css/
 -|CSS3学习|http://www.w3cschool.cc/css3<br>所有的demo都要跟着做一遍||
 贺俊毓|苹果开发者入门文档|已单独发送|2|1
